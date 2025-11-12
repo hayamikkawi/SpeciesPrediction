@@ -1,3 +1,13 @@
 
 !species.miniproc.ipynb
 !.gitignore
+X_train.csv
+X_val.csv
+y_train.csv
+y_val.csv
+bird_species_rerun_with_averaged_climate.csv
+explore_species_data.py
+species_test.npz
+species_train.npz
+species_train_extra.npz
+taxa.csv
